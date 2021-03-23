@@ -41,6 +41,7 @@ Signed,
 
 - Aaron Carson
 - Adam Barber
+- Adam Jackson (X.org, Fedora)
 - Adil Sadik
 - Adrian Cochrane
 - Adrien "PulkoMandy" Destugues
@@ -293,7 +294,7 @@ Signed,
 - Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
-- Noel Georgi
+- Noel Georgimain/index.md
 - Ole Streicher (Debian Developer)
 - Olivier Berger (FSF member, or associate member since 2002)
 - [Open Source Diversity](https://opensourcediversity.org/) Community
